@@ -43,7 +43,7 @@ namespace Lab8MD2
             {
                 S[i] = rand.Next(255);
             }
-            for (int i = 0; i < C.Length; i++)
+               for (int i = 0; i < C.Length; i++)
             {
                 C[i] = 0;
             }
